@@ -1,6 +1,6 @@
 NAME = nemu
 
-NEMU_HOME = \tmp\ics2020\nemu
+NEMU_HOME = /tmp/ics2020/nemu
 
 ISA ?= riscv32
 ISAS = $(shell ls src/isa/)
